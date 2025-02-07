@@ -35,7 +35,7 @@
     "@feathersjs/authentication-local": "^1.0.2",
     "@feathersjs/configuration": "^1.0.1",
     "@feathersjs/errors": "^3.2.0",
-    "@feathersjs/express": "^1.1.2",
+    "@feathersjs/express": "^5.0.32",
     "@feathersjs/feathers": "^3.0.2",
     "@feathersjs/socketio": "^3.0.1",
     "compression": "^1.7.1",
